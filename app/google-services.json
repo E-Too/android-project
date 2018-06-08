@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "852112758991",
+    "firebase_url": "https://paperchaser-5c671.firebaseio.com",
+    "project_id": "paperchaser-5c671",
+    "storage_bucket": "paperchaser-5c671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852112758991:android:4d4bc1541f2accaf",
+        "android_client_info": {
+          "package_name": "com.example.too.paperchaser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852112758991-j83g9la11ssq5r6tccgd7c93k9vl6pa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.too.paperchaser",
+            "certificate_hash": "bbd6b67415a7773ac289f0ea2737407e14f2f359"
+          }
+        },
+        {
+          "client_id": "852112758991-jl4acfrqse9kujj1e7mrmnp7csnlmj64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIT2RBO36sHmBIKPRW1Vyei1Ctb_v63e0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852112758991-jl4acfrqse9kujj1e7mrmnp7csnlmj64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
